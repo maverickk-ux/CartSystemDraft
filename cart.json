@@ -1,0 +1,17 @@
+{
+    "Shashank": {
+        "Jeans": {
+            "quantity": 1,
+            "price": 100.0
+        },
+        "Scanner": {
+            "quantity": 1,
+            "price": 100.0
+        },
+        "Apples": {
+            "quantity": 1,
+            "price": 1.0
+        }
+    },
+    "sample_user": {}
+}
