@@ -32,6 +32,11 @@ Steps to Use:
 3. Moving to the checkout page gives a overall review about your cart with all items displayed together. Users have yet another chance to modify the quantity of products using the + and - buttons provided. If they wish to proceed they can click the proceed to payment button.
 4. The final page is the payment page. Here the total price is shown along with a drop down menu of mode of payment (UPI/card/new banking). Click the complete payment to finish transaction and buy your products.
 
+Libraries used: 
+1. json - For reading and writing user data to a JSON file (e.g., users.json).
+2. tkinter and customtkinter - For creating GUI components like windows, labels, and buttons.
+3. warnings - Used implicitly in customtkinter for warning messages.
+4. os (if you're managing file paths or external files, though not explicitly shown in the code).
 
 work division: 
 Login Page, main page - Shashank
