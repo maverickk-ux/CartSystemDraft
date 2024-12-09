@@ -44,3 +44,16 @@ Checkout page, cart page - Yash Sultania
 groceries page, clothing page, electronics page - Hasini
 payment page - Abhinav
 
+Pictures for reference: 
+![WhatsApp Image 2024-12-09 at 11 58 59_dd140419](https://github.com/user-attachments/assets/c0bc082b-8af3-42f0-9379-ba0a67fc32c9)
+![WhatsApp Image 2024-12-09 at 11 58 59_5ba2879c](https://github.com/user-attachments/assets/4feb0e2a-ebcf-4b5f-bb71-b72cb5235f34)
+![WhatsApp Image 2024-12-09 at 11 59 00_bdf30123](https://github.com/user-attachments/assets/c67722fc-cc26-401b-af97-3819c7ef10e2)
+![WhatsApp Image 2024-12-09 at 11 58 58_2cfe4f6c](https://github.com/user-attachments/assets/bd05578d-7b40-4d29-b7de-7bc2b7a2412a)
+![WhatsApp Image 2024-12-09 at 11 58 58_53a80d74](https://github.com/user-attachments/assets/75fb564f-30ba-44d0-ab48-056eeb648c20)
+![WhatsApp Image 2024-12-09 at 11 58 59_920cb57b](https://github.com/user-attachments/assets/65cb6271-338d-4a90-99dc-13e927313f9f)
+![WhatsApp Image 2024-12-09 at 11 58 59_49efc2f2](https://github.com/user-attachments/assets/f82d03ae-8795-493d-9963-35d4dfd78544)
+![WhatsApp Image 2024-12-09 at 11 58 58_93c14c5a](https://github.com/user-attachments/assets/17dad121-a28a-49b9-9a19-3694bf717fea)
+
+
+
+
